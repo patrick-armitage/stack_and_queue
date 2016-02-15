@@ -1,0 +1,6 @@
+stackAndQueue
+*.gch
+*.o
+*.pdf
+*.zip
+.DS_Store
